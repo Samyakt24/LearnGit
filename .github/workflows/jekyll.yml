@@ -16,4 +16,3 @@ jobs:
       with:
        repository: Samyakt24/Private1.git
        token: ${{ secrets.ACCESS_TOKEN }}
-       ref: refs/heads/release
