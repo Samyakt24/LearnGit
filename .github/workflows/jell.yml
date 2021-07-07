@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@main
       with:
-       repository: Samyakt24/Private1.git
-       token: ${{ secrets.ACCESS_TOKEN }}
+        repository: Samyakt24/Private1.git
+        token: ${{ secrets.ACCESS_TOKEN }}
