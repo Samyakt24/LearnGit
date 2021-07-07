@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - run: git clone https://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@github.com/Samyakt24/Private1.git
+    - run: git clone https://Samyakt24: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@github.com/Samyakt24/Private1.git
